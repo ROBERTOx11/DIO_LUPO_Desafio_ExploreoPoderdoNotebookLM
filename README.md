@@ -166,7 +166,7 @@ Gostaria que eu gerasse o arquivo visual dessa apresentação para você? Posso 
 
 1. Resumos estruturados do assunto; 2. Um glossário com os principais conceitos aprendidos; 3.  Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
 
-1. Resumos Estruturados do Assunto:
+   Resumos Estruturados do Assunto:
    
 	 O objetivo principal do desafio de projeto proposto foi a utilização da ferramenta NotebookLM, que é poderosa por ser baseada em inteligência artificial, como instrumento de otimização de geração de conteúdo, explorando sua capacidade de analisar grande volume de informações fornecidas por links tanto de textos, como de imagens e vídeos, e gerar relatórios, apresentações, vídeos, podcasts e outros formatos.
 	
@@ -174,7 +174,7 @@ Gostaria que eu gerasse o arquivo visual dessa apresentação para você? Posso 
 	
   Os prompts elaborados, foram bem detalhados, permitindo uma identificação clara do objetivo proposto e as respostas apresentadas pela ferramenta foram muito satisfatórias. A apresentação de slides gerada ficou excelente, mesmo considerando que foi solicitada a revisão para a inclusão de um slide adicional. Apenas o recurso de geração de vídeo não agradou muito, pois hoje já existem outras ferramentas no mercado especiallizadas em geração de vídeo por inteligência artifical, que já apresentam resultaldos muito superiores. Mesmo assim, não se pretende desmerecer de forma alguma o NotebookLM, considerando todo o seu potencial em muitos outros quesitos.
 
-2. Glossário com os principais conceitos aprendidos:
+	Glossário com os principais conceitos aprendidos:
 
 	Pesquisa de fontes: É preciso fazer uma pesquisa cuidadosa de fontes e selecionar aquelas que além de conterem conteúdos relevantes para o trabalho proposto, sejam de fontes confiáveis e seguras.
 	
@@ -184,7 +184,7 @@ Gostaria que eu gerasse o arquivo visual dessa apresentação para você? Posso 
 	
   Alta Capacidade, Alta Produtividade e Simplicidade:  Esta ferramenta possui o diferencial de ser capaz de explorar grande volume de informações fornecidas por links, produz resultados incríveis e é muito rápida no processamento, além de possuir uma interface simples e intuitiva, muito fácil de ser uilizada. 
 
-3. Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:
+	Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:
 
 	3.1 Gostaria de fazer um estudo preparatório para o crisma e ter acesso tanto aos fundamentos como a prática do cerimonial no dia do recebimento do sacramento. É importante considerar a Lectio Divina que deve ser praticada durante todo o período de estudos. Na turma da qual hoje faço parte, os seguintes trechos bíblicos foram estudados até o momento: João 14,15-17,25-26;16,7-15, Mateus 5, 13-14, 2ª Coríntios 2, 15, Isaías 26, 12 . Já inclui os links das fontes mais relevantes. Peço por favor que prepare um material preparatório didático para o recebimento do sacramento do crisma.
 
